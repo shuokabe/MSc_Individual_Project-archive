@@ -7,3 +7,7 @@ This deepQuest-mod folder contains all the files that were added or modified fro
 - prepare_data is a modified version of the original deepQuest's prepare_data file. It enables to handle the new visual feature input correctly.
 
 - launch.sh and sent-launch.sh are shell files which make easier the move of the concerned dataset
+
+- The train-shell folder contains the shell scripts to execute the training and testing with the desired MQE model.
+
+- The config folder contains the different configuration files for the baseline and its modified MQE version for sentence-level and document-level neural-based approaches.

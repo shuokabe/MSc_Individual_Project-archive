@@ -1,6 +1,7 @@
 # Presentation
 
 An online version of this folder can be found at https://github.com/shuokabe/MSc_Individual_Project-archive.
+
 This archive contains five folders:
 
 - data contains the main used data (raw from WMT2018 task 4 and generated) for neural-based architectures, which enables to reproduce the results.
